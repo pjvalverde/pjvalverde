@@ -2,9 +2,6 @@
 <p align='center'>
 </p>
 
-<a href="https://github.com/pjvalverde" target="_blank">
-  <img alt="Welcome to my Github Page" src="https://img.shields.io/badge/Welcome_to_my_Github_Page-%3C%2F%3E-0A66C2?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
    <a href="https://www.linkedin.com/in/pablo-valverde-86828248/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -12,10 +9,7 @@
   <a href="https://x.com/pablo2001" target="_blank">
   <img alt="X (Twitter)" src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-<a href="https://www.instagram.com/pjvalverdea/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
- 
+
 
 - 👋 Hi, I’m Pablo Valverde
 - 💼 I'm a Data Scientist an Researcher in Complex Systems
